@@ -20,7 +20,7 @@ count++;
 }
 else if (count)
 _putchar('0');
-    }
+}
 if (!count)
 _putchar('0');
 }
